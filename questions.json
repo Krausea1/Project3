@@ -1,0 +1,163 @@
+
+[
+    {
+      "question": "The acronym PC stands for?",
+      "choice1": "<Private Computer>",
+      "choice2": "<Personal Computer>",
+      "choice3": "<Personal Compact>",
+      "choice4": "<Personal Compass>",
+      "answer": 2
+    },
+    {
+      "question": "What is software?",
+      "choice1": "<Any part of the computer that has a physical structure>",
+      "choice2": "<Flexible parts of a computer case>",
+      "choice3": "<Clothing designed to be worn by computer users>",
+      "choice4": "<Instructions to tell the hardware what to do>",
+      "answer": 4
+    },
+    {
+      "question": "The computers main circuit board is called a ...?",
+      "choice1": "<Hard drive>",
+      "choice2": "<Motherboard>",
+      "choice3": "<Monitor>",
+      "choice4": "<Bluetooth card>",
+      "answer": 2
+    },
+    {
+     "question": "RAM is like a computer’s ________, while a hard drive is like a computer’s ________.?>",
+      "choice1": "<Long-term memory/short-term memory>",
+      "choice2": "<Nervous system/brain>",
+      "choice3": "<Short-term memory/long-term memory>",
+      "choice4": "<Brain/nervous system>",
+      "answer": 3
+    },
+    {
+    "question": "What is an Ethernet port used for>?",
+      "choice1": "<Creating new user accounts",
+      "choice2": "<Connecting smartphones and other peripherals>",
+      "choice3": "<Connecting to the Internet",
+      "choice4": "<Providing power to the computer",
+      "answer": 3
+    },
+    {
+    "question": "What is Wi-Fi?",
+        "choice1": "<A type of wireless network>",
+        "choice2": "<An extra-wide computer case used by servers>",
+        "choice3": "<A type of software that scans for viruses>",
+        "choice4": "<A type of sound card>",
+        "answer": 1
+    },
+    {
+    "question": "Windows, macOS, and Linux are examples of ________.?",
+        "choice1": "<Mobile Devices>",
+        "choice2": "<Internet service providers>",
+        "choice3": "<Operating systems>",
+        "choice4": "<Web Browsers>",
+        "answer": 3
+    },
+    {
+    "question": "What does GUI stand for?",
+        "choice1": "<Gateway using Intel>",
+        "choice2": "<Good used iPhone>",
+        "choice3": "<Global user index>",
+        "choice4": "<Graphical user interface>",
+        "answer": 4
+    },
+    {
+        "question": "What does GUI stand for?",
+            "choice1": "<Gateway using Intel>",
+            "choice2": "<Good used iPhone>",
+            "choice3": "<Global user index>",
+            "choice4": "<Graphical user interface>",
+            "answer": 4
+        },
+        {
+            "question": "The malicious software program, which is detrimental to other computer programs is known as …?",
+                "choice1": "<Virus>",
+                "choice2": "<Trojans>",
+                "choice3": "<Worns>",
+                "choice4": "<Spyware>",
+                "answer":  1
+        },
+        {
+            "question": "If you need to copy the contents of MS Word, which command will you give?",
+                "choice1": "<Ctrl+X>",
+                "choice2": "<Ctrl+C>",
+                "choice3": "<Ctrl+V>",
+                "choice4": "<Ctrl+Z>",
+                "answer":  2
+        },
+        {
+            "question": "Which among the following correctly defines the term data processing?",
+                "choice1": "<Data input in computer>",
+                "choice2": "<Data output from computer>",
+                "choice3": "<A&B>",
+                "choice4": "<To retrieve, transform, or classify information in a computer>",
+                "answer":  4
+        },
+        {
+            "question": "USB is a ... storage device?",
+                "choice1": "<Primary>",
+                "choice2": "<Secondary>",
+                "choice3": "<Auxiliary>",
+                "choice4": "<Additional>",
+                "answer":  2
+        },
+        {
+            "question": "Which among the following correctly defines the term backup?",
+                "choice1": "<Linking one computer system with multiple computers>",
+                "choice2": "<Classifying data in different groups>",
+                "choice3": "<Separating a computer system from the group of computers>",
+                "choice4": "<Copying and saving data from the original source to other secure destination>",
+                "answer":  4
+        },
+        {
+            "question": "What is hardware?",
+                "choice1": "<Linking one computer system with multiple computers>",
+                "choice2": "<Classifying data in different groups>",
+                "choice3": "<Separating a computer system from the group of computers>",
+                "choice4": "<Copying and saving data from the original source to other secure destination>",
+                "answer":  4
+        },
+        {
+            "question": "... computer is the most powerful computer.?",
+                "choice1": "<Mini>",
+                "choice2": "<Micro>",
+                "choice3": "<Super>",
+                "choice4": "<Mainframe>",
+                "answer":  3
+        },
+        {
+            "question": " What is processed by the computer into information.?",
+                "choice1": "<Data>",
+                "choice2": "<Processor>",
+                "choice3": "<Numbers>",
+                "choice4": "<Input>",
+                "answer":  1
+        },
+        {
+            "question": "What is called the starting up on operating system??",
+                "choice1": "<Starting>",
+                "choice2": "<Entering>",
+                "choice3": "<Booting>",
+                "choice4": "<Formatting>",
+                "answer":  3
+        },
+        {
+            "question": "The first computer was programmed using?",
+                "choice1": "<Assembly language>",
+                "choice2": "<Machine language>",
+                "choice3": "<Source code>",
+                "choice4": "<Object code>",
+                "answer":  2
+        },
+        {
+            "question": "...IC stands for?",
+                "choice1": "<Internal Circuit>",
+                "choice2": "<Internal Computer>",
+                "choice3": "<Integrated Computer>",
+                "choice4": "<Integrated Circuit>",
+                "answer":  4
+        }
+  ]

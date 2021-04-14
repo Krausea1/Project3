@@ -1,0 +1,163 @@
+
+[
+    {
+      "question": "What does HTML stand for?",
+      "choice1": "<Hyperlinking Text Marking Language >",
+      "choice2": "<Hyper Tag Markup Language>",
+      "choice3": "<Hyper Text Markup Language>",
+      "choice4": "<Hyperlinks TextMark Language>",
+      "answer": 2
+    },
+    {
+      "question": "Select the correct HTML tag to make text bold.",
+      "choice1": "<bo>",
+      "choice2": "<b>",
+      "choice3": "<bb>",
+      "choice4": "<bold>",
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct HTML tag for the largest heading?",
+      "choice1": "<<heading>>",
+      "choice2": "<<head>>",
+      "choice3": "<<h1>>",
+      "choice4": "<<h6>>",
+      "answer": 2
+    },
+    {
+     "question": "What is the correct format for aligning written content to the center of the page in CSS?>",
+      "choice1": "<Text-align:center;>",
+      "choice2": "<Text:align-center;>",
+      "choice3": "<Font-align:center;>",
+      "choice4": "<Font:align-center;>",
+      "answer": 1
+    },
+    {
+    "question": "What is the correct format for changing the background color of a Div in CSS?>",
+      "choice1": "<bg-color:red;",
+      "choice2": "<Background-colour:red;>",
+      "choice3": "<bg:red;",
+      "choice4": "<Background-color:red;",
+      "answer": 4
+    },
+    {
+    "question": "What does CSS stand for?",
+        "choice1": "<Computing Style Sheet>",
+        "choice2": "<Cascading Style Sheet >",
+        "choice3": "<Creative Style System>",
+        "choice4": "<Creating Styling Sheet>",
+        "answer": 2
+    },
+    {
+    "question": "Which is the correct css syntax?",
+        "choice1": "<Body{color:black}>",
+        "choice2": "<{body:color=black{body}>",
+        "choice3": "<{body;color:black}>",
+        "choice4": "<body:color=black>",
+        "answer": 1
+    },
+    {
+    "question": "What symbols are used to make up the python language?",
+        "choice1": "<Runes>",
+        "choice2": "<Scratch>",
+        "choice3": "<Heiroglyphics>",
+        "choice4": "<Words>",
+        "answer": 4
+    },
+    {
+        "question": "What are people who write computer code call?",
+            "choice1": "<Professors>",
+            "choice2": "<Cryptographers>",
+            "choice3": "<Programmers>",
+            "choice4": "<Manufacturers>",
+            "answer": 3
+        },
+        {
+            "question": "What do shell windows show in python?",
+                "choice1": "<Print command>",
+                "choice2": "<IDLE>",
+                "choice3": "<Code>",
+                "choice4": "<Program>",
+                "answer":  4
+        },
+        {
+            "question": "How many types of windows does python use?",
+                "choice1": "<One>",
+                "choice2": "<Two>",
+                "choice3": "<Three>",
+                "choice4": "<Four>",
+                "answer":  1
+        },
+        {
+            "question": "Which of those allows duplicate elements??",
+                "choice1": "<Set>",
+                "choice2": "<List>",
+                "choice3": "<All>",
+                "choice4": "<none of the above>",
+                "answer":  2
+        },
+        {
+            "question": "java.util.Collections is a?",
+                "choice1": "<Class>",
+                "choice2": "<Interface>",
+                "choice3": "<Object>",
+                "choice4": "<None of the >",
+                "answer":  1
+        },
+        {
+            "question": "Which of the below is valid way to instantiate an array in java?",
+                "choice1": "<int myArray [] = {1, 3, 5};>",
+                "choice2": "<int myArray [] [] = {1,2,3,4}; >",
+                "choice3": "<int [] myArray = (5, 4, 3); >",
+                "choice4": "<int [] myArray = {“1”, “2”, “3”};>",
+                "answer":  1
+        },
+        {
+            "question": "Which of the below are reserved keyword in Java?",
+                "choice1": "<array>",
+                "choice2": "<set>",
+                "choice3": "<goto>",
+                "choice4": "<int>",
+                "answer":  4
+        },
+        {
+            "question": " Which of the following statements are true for inheritance in Java?",
+                "choice1": "<The “extend” keyword is used to extend a class in java.>",
+                "choice2": "<You can extend multiple classes in java.>",
+                "choice3": "<Private members of the superclass are accessible to the subclass.>",
+                "choice4": "<We can’t extend Final classes in java.>",
+                "answer":  4
+        },
+        {
+            "question": "What is the HTML attribute used to reference the location of an image inside the <img> tag?",
+                "choice1": "<src>",
+                "choice2": "<href>",
+                "choice3": "<link>",
+                "choice4": "<location>",
+                "answer":  1
+        },
+        {
+            "question": "Which of the following table tags is used to create a table row?",
+                "choice1": "<<th>>",
+                "choice2": "<<td>>",
+                "choice3": "<<tr>>",
+                "choice4": "<<table>>",
+                "answer":  4
+        },
+        {
+            "question": "How is document type initialized in HTML5.?",
+                "choice1": "<</DOCTYPE HTML>>",
+                "choice2": "<</DOCTYPE>>",
+                "choice3": "<<!DOCTYPE HTML>>",
+                "choice4": "<</DOCTYPE html>>",
+                "answer":  3
+        },
+        {
+            "question": "Which tag is used to create a hyperlink?",
+                "choice1": "<<a>>",
+                "choice2": "<<img>>",
+                "choice3": "<<dl>>",
+                "choice4": "<<link>>",
+                "answer": 1
+        }
+  ]
